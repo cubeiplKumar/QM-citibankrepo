@@ -23,3 +23,10 @@ class Main {
     }
   }
 }
+#working for the feature citi-f300 by Mahesh
+// reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
